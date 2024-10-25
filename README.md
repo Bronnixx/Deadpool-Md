@@ -1,42 +1,40 @@
-<h1 align="center"> ★𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕𝟑★ <br></h1>
+<h1 align="center"> ★𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕𝟒★ <br></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
-  
-  <img src="https://telegra.ph/file/8c7d8176e16d36ab5ad6c.jpg" />
-</p>
 
 <p align="center">
-𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
+🚀𝐁𝐎𝐓 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔 𝟏𝟎𝟎%🚀 𝐁𝐘 <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
 </p>
 
 
 
-## 💀```Deadpool Group ❌ Channel ✝️```
+## 😍🍭𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 
-- [ GROUP ](https://chat.whatsapp.com/FqvQzWARlwc7XlerabWq7z)
-- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
+- [🔗𝐆𝐑𝐎𝐔𝐏 ](https://chat.whatsapp.com/FqvQzWARlwc7XlerabWq7z)
+- [🔗𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
 
-## 🔆🔆MADE BY ℂ𝕠𝕟𝕗𝕣𝕠𝕟𝕥𝕖𝕣❌𝕂𝕒𝕤̌𝕙𝕜𝕚𝕕
+## 🔆🔆𝐎𝐰𝐧𝐞𝐫 𝐢𝐬 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫
 
-# 💀```Must fork the repository✝️```
+# 🍴𝐅𝐨𝐫𝐤 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
 
-- FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
+- FORK THE REPOSITORY [𝐅𝐎𝐑𝐊🍴](https://github.com/Confronter/Deadpool-Md/fork)
 
-## `❗️𝐔𝐩𝐝𝐚𝐭𝐞𝐝❗️Deadpool Pair Code For Session`
+## `📍𝐏𝐀𝐈𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍`
 [𝐔𝐒𝐄 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄](https://confronter-session.onrender.com/pair)
 
 [𝐔𝐒𝐄 𝐅𝐔𝐋𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://confronter-session.onrender.com/)
 
-# 💀```Deployment✝️```
+# ☘️🖤𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
+  
   # ❄️SEE Tutorial how to deploy✔️
-[Video Tutorial](https://t.me/dragonbugkiller/31)
+[𝐖𝐀𝐓𝐂𝐇 𝐕𝐈𝐃𝐄𝐎](https://t.me/dragonbugkiller/31)
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-*Add your Creds.json to Classic file
+*Add your Creds.json to Session file
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
@@ -46,43 +44,15 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Enjoy the Bot.
 ```
 ```
-## 💀For Termux/Ssh/Ubuntu
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/Confronter/Deadpool-Md
-cd Deadpool-Md
-yarn install
-npm start
-```
-## 💀For VPS
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/Confronter/Deadpool-Md
-cd Deadpool-Md
-npm start
-```
-## 💀For 24/7 Activation (Termux)
-```
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
+## 📌😎𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐒𝐜𝐫𝐢𝐩𝐭 𝐑𝐮𝐧 𝐨𝐧 𝐚𝐧𝐲 𝐩𝐚𝐧𝐞𝐥
+[𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃⬇️](https://github.com/confronter/Deadpool-Md/archive/refs/heads/main.zip)
 
-## 💀Developer
+# 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐬 𝐑𝐞𝐧𝐝𝐞𝐫
+[𝐆𝐢𝐭 𝐋𝐢𝐧𝐤](https://github.com/confronter/Deadpool-Md.git)
 
-  - [**Follow Instagram**](https://instagram.com/confronter._)
-- [**WhatsApp Me**](https://wa.me/254796283064)
+## 🇰🇪𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+
+- [𝐅𝐎𝐋𝐋𝐎𝐖 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌](https://instagram.com/confronter._)
+- [𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐌𝐄](https://wa.me/254796283064)
 ## THANKS✝️💛
   
